@@ -173,11 +173,3 @@ print("Short List Division (Reversed):", short_result)
 
 print("\nLong List:", long_list)
 print("Long List Division (Reversed):", long_result)
-
-
-# cd /Users/piyushkulkarni/projects/my-python-project
-git init
-git add example.py
-git commit -m "Add example.py to the repository"
-git remote add origin https://github.com/piyushkulkarni/my-python-project.git
-git push -u origin master
